@@ -9,3 +9,7 @@ This repository is an example to compare it repositories.
 Michael Szerman - michaelszer@gmail.com
 
 ## How to contribute
+
+Add code and then push it to be review by me.
+
+## Deployment
