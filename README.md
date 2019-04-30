@@ -4,4 +4,6 @@
 
 ## About author
 
+Michael Szerman - michaelszer@gmail.com
+
 ## How to contribute
