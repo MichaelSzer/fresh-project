@@ -14,6 +14,8 @@ Add code and then push it to be review by me.
 
 ## Deployment
 
+Ask Michael for the key.
+
 ## Copyright
 
 Everyone has the legal to use this repository and the code in the way the like and we will never in a future reclaim anything from it.
