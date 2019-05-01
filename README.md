@@ -18,4 +18,4 @@ Ask Michael for the key.
 
 ## Copyright
 
-Everyone has the legal to use this repository and the code in the way the like and we will never in a future reclaim anything from it.
+Everyone, and everything that is alive including ALIENS, has the legal to use this repository and the code if he or she or it wants to.
