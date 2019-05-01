@@ -18,4 +18,4 @@ Ask Michael for the key.
 
 ## Copyright
 
-Everyone has the legal to use this repository and the code in the way the like and we will never in a future reclaim anything from it.
+Everyone has the legal, if you are allowed to. To use this repository and the code in the way the like and we will never in a future reclaim anything from it. Pls dont do anything illegar or wrong.
